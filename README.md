@@ -1,6 +1,6 @@
 # DiceGame
 
-####This is simple Dice Game. I used here simple random variable to chage Dice pictures. 
+#### This is simple Dice Game. I used here simple random variable to chage Dice pictures. 
 
 
 
